@@ -21,3 +21,6 @@ MazeBreaker는 영화 Maze Runner에서 영감을 받아 제작된 동적으로 
 개발 내용과 주요 구현 기능에 대해서는 아래 문서를 참고할 수 있습니다.
 - ⚙ 개발문서 : https://future-avocado-a0e.notion.site/29a7159e2bd880d4b8d9ee046ab0dddf
 
+### 📷 관련 자료
+
+- 🔗 플레이 영상 : https://www.youtube.com/watch?v=F4wkFBylStk&t=943s
