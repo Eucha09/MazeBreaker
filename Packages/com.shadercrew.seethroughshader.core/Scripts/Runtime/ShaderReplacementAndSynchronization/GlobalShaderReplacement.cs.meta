@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 38bcf3d74e2cdcf4383bb1821acc5f30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Runtime/ShaderReplacementAndSynchronization/GlobalShaderReplacement.cs
+  uploadId: 734686

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7eff8f75d7d48084399bd8c1196323c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Editor/STSShaderGUI/HDRP/HDStringConstants.cs
+  uploadId: 734686

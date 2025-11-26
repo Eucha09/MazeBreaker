@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee2702e08e33cdc4d97b2658e2399378
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/README for Samples.md
+  uploadId: 734686

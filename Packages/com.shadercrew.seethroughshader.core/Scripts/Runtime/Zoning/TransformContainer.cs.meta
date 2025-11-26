@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc7a6e42c167fb84e8572ab38c550f6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Runtime/Zoning/TransformContainer.cs
+  uploadId: 734686

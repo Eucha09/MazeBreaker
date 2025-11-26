@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d27508c4c16fbc84c87076acce2338ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Prefabs/Vegetation.prefab
+  uploadId: 734686

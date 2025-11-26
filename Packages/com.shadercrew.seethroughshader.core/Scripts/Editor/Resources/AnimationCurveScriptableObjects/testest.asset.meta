@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6ce1d6e15a03e44ca7de771607f7f46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Editor/Resources/AnimationCurveScriptableObjects/testest.asset
+  uploadId: 734686

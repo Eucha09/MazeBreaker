@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 931c89236fdad5044bf955f1221246bf
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Shaders/ShaderCustomization/STS
+    ShaderGraph/SeeThroughShaderCustomFunctionBase.hlsl
+  uploadId: 734686

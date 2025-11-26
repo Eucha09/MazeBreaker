@@ -1,0 +1,87 @@
+{
+    "name": "CameraInputActions",
+    "maps": [
+        {
+            "name": "Camera",
+            "id": "92407076-e9fc-40ad-a324-e72772733618",
+            "actions": [
+                {
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "ddd36c95-847f-4106-9c4a-0c78803e8210",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Test",
+                    "type": "Button",
+                    "id": "8d996d63-d443-4942-bcbe-e458767d2e85",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "28d0aa90-8a6b-4c71-b11b-9be8880117fc",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "38e330dc-422a-4729-8f94-65924cd84da9",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d0616dd4-1170-4961-9dcc-f928ddd1a756",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2c00af1a-a7f9-4d8e-a791-377873d94770",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Test",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7794d2bc-a62f-4bae-bd16-ebd279546554",
+                    "path": "<Keyboard>/p",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Test",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

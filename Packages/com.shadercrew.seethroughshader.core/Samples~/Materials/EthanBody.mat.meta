@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07e91fb9cde929546b6ae448c4db1306
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Materials/EthanBody.mat
+  uploadId: 734686

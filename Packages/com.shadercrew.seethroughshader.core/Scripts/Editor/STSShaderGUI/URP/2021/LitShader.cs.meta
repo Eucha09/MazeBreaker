@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f66fef0f458524a4c95e3c8db310c8b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Editor/STSShaderGUI/URP/2021/LitShader.cs
+  uploadId: 734686

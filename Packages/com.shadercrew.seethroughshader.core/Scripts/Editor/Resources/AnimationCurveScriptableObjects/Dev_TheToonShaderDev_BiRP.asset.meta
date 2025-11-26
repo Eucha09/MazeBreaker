@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cffc91200414414fbc8a10170435eb3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Editor/Resources/AnimationCurveScriptableObjects/Dev_TheToonShaderDev_BiRP.asset
+  uploadId: 734686

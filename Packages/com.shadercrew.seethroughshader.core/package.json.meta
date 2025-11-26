@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a46f5823cac23047af1465cb2fd0cb0
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/package.json
+  uploadId: 734686

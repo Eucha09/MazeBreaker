@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cdf271f1f67dde418be2eea1b50c08d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Shaders/ShaderCustomization/STS
+    ShaderGraph/HDRP/SeeThroughShaderCustomFunctionHDRP.hlsl
+  uploadId: 734686

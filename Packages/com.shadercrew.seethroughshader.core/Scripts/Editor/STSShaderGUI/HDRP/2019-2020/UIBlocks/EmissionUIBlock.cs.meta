@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd2bdffbfdb64804e91d919308a73efe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Editor/STSShaderGUI/HDRP/2019-2020/UIBlocks/EmissionUIBlock.cs
+  uploadId: 734686

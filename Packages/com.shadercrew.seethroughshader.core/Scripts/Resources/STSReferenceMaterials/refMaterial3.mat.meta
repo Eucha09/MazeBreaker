@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa2937a0b028a8043b9f106ef91a500a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Resources/STSReferenceMaterials/refMaterial3.mat
+  uploadId: 734686

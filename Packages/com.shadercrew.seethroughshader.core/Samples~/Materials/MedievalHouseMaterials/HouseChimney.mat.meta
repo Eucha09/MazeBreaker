@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db8d59401baee904fadcc7e8e5204814
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Materials/MedievalHouseMaterials/HouseChimney.mat
+  uploadId: 734686

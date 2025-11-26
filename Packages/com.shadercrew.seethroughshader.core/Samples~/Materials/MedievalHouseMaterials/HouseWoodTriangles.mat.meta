@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54bfff830e816f44aa3eb4a8dc7a9f9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Materials/MedievalHouseMaterials/HouseWoodTriangles.mat
+  uploadId: 734686

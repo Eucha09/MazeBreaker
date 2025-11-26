@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 50126d1849c2e934380af5fb8b0bfc1f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Shaders/Native/URP/2022/SeeThroughShader_Lit_URP2022.shader
+  uploadId: 734686

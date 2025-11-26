@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71ad3f02d45b6a645a5706cd2c077db6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Resources/STSReferenceMaterials/refMaterialPlayerRaycast.mat
+  uploadId: 734686

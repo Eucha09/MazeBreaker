@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: faeedbe89f33cfb4cbbec716b17aaeac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Materials/MedievalHouseMaterials/HouseRoof.mat
+  uploadId: 734686

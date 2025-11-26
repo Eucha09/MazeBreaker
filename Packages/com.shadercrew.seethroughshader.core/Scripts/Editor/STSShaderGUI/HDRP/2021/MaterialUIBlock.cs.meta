@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6be5b0d0e3a81334783e8d0f04f498b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Editor/STSShaderGUI/HDRP/2021/MaterialUIBlock.cs
+  uploadId: 734686

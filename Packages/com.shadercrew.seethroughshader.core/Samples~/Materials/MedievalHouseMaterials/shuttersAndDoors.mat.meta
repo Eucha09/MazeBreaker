@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8563531643387b459559c6779d0fc5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Materials/MedievalHouseMaterials/shuttersAndDoors.mat
+  uploadId: 734686

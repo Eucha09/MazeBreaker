@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e60e272af70879b4d8910812cf78c625
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Scripts/Shaders/ShaderCustomization/Editor/ShaderGraph/ShaderCrew.SeeThroughShader.Core.ShaderGraph.Editor.asmdef
+  uploadId: 734686

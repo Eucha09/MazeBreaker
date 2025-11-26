@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 779bc91d30587624497aa0f90698c342
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193955
+  packageName: See-through Shader
+  packageVersion: 1.8.7
+  assetPath: Packages/com.shadercrew.seethroughshader.core/Samples~/Materials/MedievalHouseMaterials/HouseWall.mat
+  uploadId: 734686
